@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+.main{
+    background-color: blue;
+    padding: 0 0 0 10px;
+}
+.section h1{
+    font-size: 70px;
+    color: yellow;
+    font-family: 'Noto sans',sans-serif;
+}
+.section h3{
+    font-size: 24px;
+    color: red;
+    font-family: 'Noto sans', sans-serif;
+}
+.section p{
+    font-size: 22px;
+    color: aqua;
+    font-family: 'Noto sans',sans-serif;
+}
+.section button{
+    width: 100px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    border: none;
+    font-family: 'Noto sans',sans-serif;
+}
